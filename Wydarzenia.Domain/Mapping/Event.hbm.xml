@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="Wydarzenia.Domain" assembly="Wydarzenia.Domain"
+xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Event" table="Event">
+    <id name="Id" column="id" type="Int32">
+      <generator class="native" />
+    </id>
+
+    <property name="Name" type="String" column="name" length="255" />
+  </class>
+</hibernate-mapping>

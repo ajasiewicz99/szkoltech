@@ -1,0 +1,12 @@
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\hibernate.cfg.xml
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.dll
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.pdb
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.Domain.dll
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\Iesi.Collections.dll
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\NHibernate.dll
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.Domain.pdb
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\obj\Debug\Wydarzenia.BusinessLogic.csprojAssemblyReference.cache
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\obj\Debug\Wydarzenia.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\obj\Debug\Wydarzenia.BusinessLogic.csproj.CopyComplete
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.dll
+F:\repos\WebApplication1\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.pdb

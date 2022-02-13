@@ -1,0 +1,6 @@
+F:\repos\WebApplication1\BiuroPracy.Domain\bin\Debug\BiuroPracy.Domain.dll
+F:\repos\WebApplication1\BiuroPracy.Domain\bin\Debug\BiuroPracy.Domain.pdb
+F:\repos\WebApplication1\BiuroPracy.Domain\obj\Debug\Wydarzenia.Domain.csprojAssemblyReference.cache
+F:\repos\WebApplication1\BiuroPracy.Domain\obj\Debug\Wydarzenia.Domain.csproj.CoreCompileInputs.cache
+F:\repos\WebApplication1\BiuroPracy.Domain\obj\Debug\BiuroPracy.Domain.dll
+F:\repos\WebApplication1\BiuroPracy.Domain\obj\Debug\BiuroPracy.Domain.pdb

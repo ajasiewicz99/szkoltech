@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="Wydarzenia.Domain" assembly="Wydarzenia.Domain" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Eventor" table="Eventor">
+    <id name="Id" column="id" type="Int32">
+      <generator class="native" />
+    </id>
+
+    <many-to-one name="Typ" class="Wydarzenia.Domain.Typy" column="typyId" fetch="select" lazy="false" cascade="none"/>
+    <many-to-one name="Miasto" class="Wydarzenia.Domain.Miasto" column="miastoId" fetch="select" lazy="false" cascade="none"/>
+    <property name="Organizator" type="String" column="name" length="255" />
+    <property name="Wydarzenie" type="String" column="surname" length="255" />
+  </class>
+</hibernate-mapping>
